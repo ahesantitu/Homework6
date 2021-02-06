@@ -1,0 +1,43 @@
+.header{
+	background: #565b57;
+	min-height: 50px;
+	color: white;
+}
+
+.container{
+	overflow: hidden;
+	
+}
+.left{
+	width: 70%;
+	min-height: 200px;
+	background: #4c2af4;
+	float: left;
+}
+.right{
+	width: 30%;
+	background: #b63fae;
+	min-height: 200px;
+	float: right;
+}
+.wrapper{
+	overflow: hidden;
+}
+.img{
+	width: 33.3%;
+	float: left;
+	min-height: 300px;
+}
+.box1{
+	background: #412f41;
+}
+.box2{
+	background: #678a5a;
+}
+.box3{
+	background:#967a7a;
+}
+.footer{
+	min-height: 30px;
+	background: #394950;
+}
